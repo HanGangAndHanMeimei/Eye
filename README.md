@@ -16,3 +16,9 @@
 `06-字体 & 颜色（Fonts & Colors）`
 
 `07-文本编辑（Text Editing）`
+
+`08-快捷键（Key Bindings）`
+
+`09-源代码管理（Source Control）`
+
+`10-下载（Downloads）`
